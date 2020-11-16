@@ -1,0 +1,23 @@
+{
+  "name": "ts-algorithms",
+  "version": "1.0.0",
+  "description": "Well known algorithms written in typescript & tests cases around each.",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ganesh-vellanki/ts-algorithms.git"
+  },
+  "keywords": [
+    "algorithms",
+    "typescript"
+  ],
+  "author": "Ganesh Vellanki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ganesh-vellanki/ts-algorithms/issues"
+  },
+  "homepage": "https://github.com/ganesh-vellanki/ts-algorithms#readme"
+}
